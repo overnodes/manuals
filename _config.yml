@@ -1,6 +1,6 @@
 # Theme settings
 doks:
-    baseurl: "/manuals"
+    baseurl: "/manuals-kr"
     color_theme: blue
     header:
         logo:
