@@ -1,6 +1,6 @@
 # Theme settings
 doks:
-    baseurl:
+    baseurl: "https://overnodes.github.io/manuals/"
     color_theme: # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
