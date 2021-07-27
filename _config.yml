@@ -16,8 +16,8 @@ doks:
     footer:
         content:
             logo:
-                text: Project name
-                image:
+                text: (주)오버노드
+                image: './doks-theme/assets/images/symbol_150x150.png'
             copyright: Copyright &copy; 2017. - Project name <br>All rights reserved.
         social_list:
             - network_name: facebook
