@@ -17,7 +17,7 @@ doks:
         content:
             logo:
                 text:
-                image: './doks-theme/assets/images/symbol_150x150.png'
+                image: ./doks-theme/assets/images/horizontal_color_500x120.png
             copyright: Copyright &copy; 2017. - Project name <br>All rights reserved.
         social_list:
             - network_name: facebook
